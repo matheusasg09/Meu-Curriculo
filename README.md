@@ -11,7 +11,7 @@ E-mail: matheusasg09@gmail.com<br>
 LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 </p>
 
-## Formação Acadêmica
+## 📚 Formação Acadêmica
 <p>Tecnólogo em <strong>Sistemas para Internet</strong>, FATEC São Roque, conclusão em junho de 2021.</P>
 
 <p>Bacharel em Engenharia Civil, Faculdade Mario Schenberg, matrícula trancada no 7º semestre.</P>
