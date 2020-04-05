@@ -8,7 +8,7 @@ Vargem Grande Paulista - SP<br>
 Tel: (11) 4303 - 9938<br>
 Cel: (11) 96472 - 0880<br>
 E-mail: matheusasg09@gmail.com<br>
-Linkedin: www.linkedin.com/in/matheusasg09/
+Linkedin: www.linkedin.com/in/matheusasg09
 </p>
 
 ## ◾ Formação Acadêmica
@@ -69,11 +69,8 @@ Linkedin: www.linkedin.com/in/matheusasg09/
 * <b>CSS 3</b> - Avançado
 * <b>Javascript ES6</b> - Avançado
 * <b>Vue.js</b> - Avançado
-* <b>Vuex</b> - Intermediário
 * <b>Bootstrap 4</b> - Avançado
-* <b>BootstrapVue</b> - Intermediário
 * <b>React.js</b> - Intermediário
-* <b>Redux</b> - Intermediário
 * <b>Angular 8</b> - Intermediário
 * <b>Typescript</b> - Intermediário
 * <b>WordPress</b> - Intermediário
@@ -81,8 +78,6 @@ Linkedin: www.linkedin.com/in/matheusasg09/
 * <b>API REST</b> - Avançado
 * <b>jQuery</b> - Intermediário
 * <b>Git</b> - Intermediário
-* <b>Adobe XD</b> - Avançado
-* <b>NativeScript</b> - Básico
 
 ## ◾ Cursos Extracurriculares
 
