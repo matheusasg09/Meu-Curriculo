@@ -22,35 +22,15 @@ LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 
 
 ## Experência Profissional
-* (2018 -  Atual) <br>
-**Wipro Brasil** -
-Analista de Redes
 
-* (2013 -  2016) <br>
-**Stefanini IT Solutions** -
-Analista de Suporte Nível II
-  * Atendimento VIP (Diretoria e Presidência)
-  * Realização de tele/vídeo conferência
-  * Atendimento em campo aos usuários
-  * Atendimento por telefone/remoto a usuário interno e externo
-  * Desenvolvimento de rotinas para o servidor
-  * Manutenção, formatação, clonagem e criptografia de notebooks e desktops
+ Desenvolvedor Front-end — Pleno
+ DigiSystem
+ mar. de 2020 - até o momento
+▪ Criação de interfaces com foco em UX Design utilizando o framework Vue.js;
+▪ Consumo de API's REST;
+▪ Versionamento de código com o GIT;
+▪ Desenvolvimento de aplicativos híbridos para Android e IOS com o framework NativeScript.
 
-
-* (2011 -  2012) <br>
-**Nostramamma / JR Delivery** -
-Técnico de Informática
-  * Atendimento técnico
-  * Formatação e manutenção de máquinas
-  * Monitoramento de Servidores de impressão
-  * Controle de usuários pelo active directory
-  
-
-* (2010 -  2011) <br>
-**Nostramamma / JR Delivery** -
-Jovem Aprendiz (suporte técnico)
-  * Atendimento técnico
-  * Formatação e manutenção de máquinas
 
 ## Conhecimentos
 
