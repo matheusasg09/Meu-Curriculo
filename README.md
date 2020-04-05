@@ -21,13 +21,13 @@ LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 
 ## Experência Profissional
 
- <strong>Desenvolvedor Front-end — Pleno</strong><br>
-   DigiSystem<br>
-   mar. de 2020 - até o momento<br>
-    ▪ Criação de interfaces com foco em UX Design utilizando o framework Vue.js;<br>
-    ▪ Consumo de API's REST;<br>
-    ▪ Versionamento de código com o GIT;<br>
-    ▪ Desenvolvimento de aplicativos híbridos para Android e IOS com o framework NativeScript.<br>
+###<strong>Desenvolvedor Front-end — Pleno</strong><br>
+####DigiSystem<br>
+####mar. de 2020 - até o momento<br>
+*▪ Criação de interfaces com foco em UX Design utilizando o framework Vue.js;<br>
+*▪ Consumo de API's REST;<br>
+*▪ Versionamento de código com o GIT;<br>
+*▪ Desenvolvimento de aplicativos híbridos para Android e IOS com o framework NativeScript.<br>
 
 
 ## Conhecimentos
