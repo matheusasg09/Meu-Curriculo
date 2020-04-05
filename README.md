@@ -56,32 +56,32 @@ E-mail: matheusasg09@gmail.com<br>
 
 ## ◾ Competências
 
- <p><b>UX Design:</b> Estudo de referencias, prototipação e criação de interfaces com foco na experiencia do usuário.</p>
+ <p><b>UX Design:</b><br> Estudo de referencias, prototipação e criação de interfaces com foco na experiencia do usuário.</p>
 
- <p><b>Web Design Responsivo:</b> Desenvolvimento de web pages que se adaptam de forma anatômica em todos os tamanhos de tela do mercado.</p>
+ <p><b>Web Design Responsivo:</b><br> Desenvolvimento de web pages que se adaptam de forma anatômica em todos os tamanhos de tela do mercado.</p>
 
- <p><b>Desenvolvimento Mobile:</b> Criação de aplicativos híbridos para as plataformas Android e IOS.</p>
+ <p><b>Desenvolvimento Mobile:</b><br> Criação de aplicativos híbridos para as plataformas Android e IOS.</p>
 
 ## ◾ Habilidades
 
-* HTML 5 - Avançado
-* CSS 3 - Avançado
-* Javascript ES6 - Avançado
-* Vue.js - Avançado
-* Vuex - Intermediário
-* Bootstrap 4 - Avançado
-* BootstrapVue - Intermediário
-* React.js - Intermediário
-* Redux - Intermediário
-* Angular 8 - Intermediário
-* Typescript - Intermediário
-* WordPress - Intermediário
-* SASS - Básico
-* API REST - Avançado
-* jQuery - Intermediário
-* Git - Intermediário
-* Adobe XD - Avançado
-* NativeScript - Básico
+* <b>HTML 5</b> - Avançado
+* <b>CSS 3</b> - Avançado
+* <b>Javascript ES6</b> - Avançado
+* <b>Vue.js</b> - Avançado
+* <b>Vuex</b> - Intermediário
+* <b>Bootstrap 4</b> - Avançado
+* <b>BootstrapVue</b> - Intermediário
+* <b>React.js</b> - Intermediário
+* <b>Redux</b> - Intermediário
+* <b>Angular 8</b> - Intermediário
+* <b>Typescript</b> - Intermediário
+* <b>WordPress</b> - Intermediário
+* <b>SASS</b> - Básico
+* <b>API REST</b> - Avançado
+* <b>jQuery</b> - Intermediário
+* <b>Git</b> - Intermediário
+* <b>Adobe XD</b> - Avançado
+* <b>NativeScript</b> - Básico
 
 ## ◾ Cursos Extracurriculares
 
