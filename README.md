@@ -20,32 +20,39 @@ LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 
 ## ◾ Experência Profissional
 
-### ▪ Desenvolvedor Front-end — Pleno<br>
+### Desenvolvedor Front-end — Pleno<br>
 ##### DigiSystem — mar. de 2020 - até o momento<br>
 * Criação de interfaces com foco em UX Design utilizando o framework Vue.js;<br>
 * Consumo de API's REST;<br>
 * Versionamento de código com o GIT;<br>
 * Desenvolvimento de aplicativos híbridos para Android e IOS com o framework NativeScript.<br>
 
-### ▪ Analista de Sistemas<br>
+### Analista de Sistemas<br>
 ##### Biovet Vaxxinova — out. de 2019 - mar. 2020<br>
 * Desenvolvimento de novos módulos para o ERP interno utilizando a plataforma .NET;<br>
 * Manutenções periódicas no banco de dados SQL Server;<br>
 * Migração de um sistema legado para uma solução web com ASP.NET.<br>
 
-### ▪ Desenvolvedor Front-end — Júnior<br>
+### Desenvolvedor Front-end — Júnior<br>
 ##### Ideas Fractal Brasil — dez. de 2018 - out. de 2019<br>
 * Desenvolvimento de SPA's utilizando o framework Angular;<br>
 * Consumo de API's REST;<br>
 * Criação de layouts com foco em UX Design utilizando Adobe XD;<br>
 * Versionamento de código com o SVN.<br>
 
-### ▪ Desenvolvedor Front-end — Júnior<br>
+### Desenvolvedor Front-end — Júnior<br>
 ##### Studio Indra — jan. de 2017 - dez. de 2018<br>
 * Desenvolvimento de SPA's utilizando o framework Vue.js e a biblioteca React.js;<br>
 * Consumo de API's REST;<br>
 * Versionamento de código com o GIT;<br>
 * Criação de layouts com foco em UX Design utilizando Adobe XD.<br>
+
+### Assistente Administrativo<br>
+##### Prefeitura do Municipio de Cotia — fev. de 2013 - jan. de 2017<br>
+* Fechamento da folha de pagamento;<br>
+* Análise e lançamento notas fiscais;<br>
+* Controle de estoque;<br>
+* Requisições de pedidos de compras e serviço.<br>
 
 ## Conhecimentos
 
@@ -54,43 +61,18 @@ LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 * Extreme programming.
 * Inglês técnico.
 
-### Sistemas Operacionais
-* Linux e Windows.
-
-### Front-end
-* HTML5.
-  * Markdown.
-* CSS3.
-  * Responsive Web.
-  * CSSGrid.
-  * Flexbox.
-* UI/UX Design e Tipografia.
-* Skeleton. (UI Kit)
-* Bootstrap 3 e 4.
-
-### Linguagens de Programação
-* PHP.
-* JavaScript ES6.
-* jQuery.
-
-### Banco de Dados
-* MySQL.
-* SQL Server.
-
-### Outros
-* Git.
-* WebPI.
-
-## Projetos
-* [Site Pessoal](https://jimmyfilips.github.io/) (em produção)
-* [U+pgrade](https://jimmyfilips.github.io/demo/upgrade/)
-* [Acts 26:18](https://acts2618.github.io/)
-
-## Cursos Completos
-* Bootstrap 4
-* Web Designer (HTML5, CSS, JavaScript, jQuery, UI e UX Design)
-* Curso Aprendizagem de Gestão e Negócios – SENAC
-* Montagem e manutenção de computadores – Master Company
+## Cursos Extracurriculares
+* Bootcamp GoStack 9.0, Rocketseat, concluído em outubro de 2019. 
+* Angular 8 Completo, Udemy, concluído em abril de 2019. 
+* Adobe XD, Origamid, concluído em dezembro de 2018.
+* UX Design Heurísticas, Origamid, concluído em novembro de 2018.
+* UI Design Avançado, Origamid, concluído em novembro de 2018.
+* Vue.js Completo, Origamid, concluído em março de 2018.
+* jQuery, Origamid, concluído em janeiro de 2018.
+* Javascript ES6, Origamid, concluído em novembro de 2017.
+* Bootstrap 4, Origamid, concluído em julho de 2017.
+* Web Design, Origamid, concluído em agosto de 2016.
+* Cyber Security Offensive, DESEC Security, concluído em abril de 2016.
 
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/filipe.daineze)
