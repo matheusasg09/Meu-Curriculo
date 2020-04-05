@@ -8,7 +8,7 @@ Vargem Grande Paulista - SP<br>
 Tel: (11) 4303 - 9938<br>
 Cel: (11) 96472 - 0880<br>
 E-mail: matheusasg09@gmail.com<br>
-Linkedin: https://www.linkedin.com/in/matheusasg09/
+Linkedin: linkedin.com/in/matheusasg09/
 </p>
 
 ## ◾ Formação Acadêmica
