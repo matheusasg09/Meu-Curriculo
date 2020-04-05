@@ -11,7 +11,7 @@ E-mail: matheusasg09@gmail.com<br>
 LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 </p>
 
-## 📚 Formação Acadêmica
+## Formação Acadêmica
 <p>Tecnólogo em <strong>Sistemas para Internet</strong>, FATEC São Roque, conclusão em junho de 2021.</P>
 
 <p>Bacharel em Engenharia Civil, Faculdade Mario Schenberg, matrícula trancada no 7º semestre.</P>
@@ -22,8 +22,7 @@ LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 ## Experência Profissional
 
 ### Desenvolvedor Front-end — Pleno<br>
-#### DigiSystem<br>
-#### mar. de 2020 - até o momento<br>
+#### DigiSystem — mar. de 2020 - até o momento<br>
 * Criação de interfaces com foco em UX Design utilizando o framework Vue.js;<br>
 * Consumo de API's REST;<br>
 * Versionamento de código com o GIT;<br>
