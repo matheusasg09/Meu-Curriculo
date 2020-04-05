@@ -3,20 +3,20 @@
 </h1>
 
 <p align="center">   
-Brasileiro, solteiro, 24 anos<br>
+Brasileiro, solteiro, 25 anos<br>
 Vargem Grande Paulista - SP<br>
 Tel: (11) 4303 - 9938<br>
 Cel: (11) 96472 - 0880<br>
 E-mail: matheusasg09@gmail.com<br>
-LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 </p>
 
 ## ◾ Formação Acadêmica
+
 <p>Tecnólogo em <strong>Sistemas para Internet</strong>, FATEC São Roque, conclusão em junho de 2021.</P>
 
-<p>Bacharel em Engenharia Civil, Faculdade Mario Schenberg, matrícula trancada no 7º semestre.</P>
+<p>Bacharel em <strong>Engenharia Civil</strong>, Faculdade Mario Schenberg, matrícula trancada no 7º semestre.</P>
 
-<p>Técnico em Desenvolvimento de Sistemas, ETEC Cotia, concluído em dezembro de 2012.</P>
+<p>Técnico em <strong>Desenvolvimento de Sistemas</strong>, ETEC Cotia, concluído em dezembro de 2012.</P>
 
 ## ◾ Experência Profissional
 
@@ -54,14 +54,37 @@ LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 * Controle de estoque;<br>
 * Requisições de pedidos de compras e serviço.<br>
 
-## Conhecimentos
+## ◾ Competências
 
-### Gerais
-* Scrum.
-* Extreme programming.
-* Inglês técnico.
+ <p><b>UX Design:</b> Estudo de referencias, prototipação e criação de interfaces com foco na experiencia do usuário.</p>
 
-## Cursos Extracurriculares
+ <p><b>Web Design Responsivo:</b> Desenvolvimento de web pages que se adaptam de forma anatômica em todos os tamanhos de tela do mercado.</p>
+
+ <p><b>Desenvolvimento Mobile:</b> Criação de aplicativos híbridos para as plataformas Android e IOS.</p>
+
+## ◾ Habilidades
+
+* HTML 5 - Avançado
+* CSS 3 - Avançado
+* Javascript ES6 - Avançado
+* Vue.js - Avançado
+* Vuex - Intermediário
+* Bootstrap 4 - Avançado
+* BootstrapVue - Intermediário
+* React.js - Intermediário
+* Redux - Intermediário
+* Angular 8 - Intermediário
+* Typescript - Intermediário
+* WordPress - Intermediário
+* SASS - Básico
+* API REST - Avançado
+* jQuery - Intermediário
+* Git - Intermediário
+* Adobe XD - Avançado
+* NativeScript - Básico
+
+## ◾ Cursos Extracurriculares
+
 * <b>Bootcamp GoStack 9.0</b>, Rocketseat, concluído em outubro de 2019. 
 * <b>Angular 8 Completo</b>, Udemy, concluído em abril de 2019. 
 * <b>Adobe XD</b>, Origamid, concluído em dezembro de 2018.
@@ -73,13 +96,5 @@ LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 * <b>Bootstrap 4</b>, Origamid, concluído em julho de 2017.
 * <b>Web Design</b>, Origamid, concluído em agosto de 2016.
 * <b>Cyber Security Offensive</b>, DESEC Security, concluído em abril de 2016.
-
-## Redes Sociais
-*  [Facebook](https://www.facebook.com/filipe.daineze)
-*  [Linkedin](https://www.linkedin.com/in/filipe-daineze/)
-*  [Codepen](https://codepen.io/jimmyfilips/)
-*  [GitHub](https://www.github.com/jimmyfilips/)
-
-<br>
 
 [ Currículo em PDF ](https://goo.gl/Dbkfy3)
