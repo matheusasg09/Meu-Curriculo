@@ -26,27 +26,27 @@ LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 * Consumo de API's REST;<br>
 * Versionamento de código com o GIT;<br>
 * Desenvolvimento de aplicativos híbridos para Android e IOS com o framework NativeScript.<br>
-<br>
+
 ### Analista de Sistemas<br>
 #### Biovet Vaxxinova — out. de 2019 - mar. 2020<br>
 * Desenvolvimento de novos módulos para o ERP interno utilizando a plataforma .NET;<br>
 * Manutenções periódicas no banco de dados SQL Server;<br>
 * Migração de um sistema legado para uma solução web com ASP.NET.<br>
-<br>
+
 ### Desenvolvedor Front-end — Júnior<br>
 #### Ideas Fractal Brasil — dez. de 2018 - out. de 2019<br>
 * Desenvolvimento de SPA's utilizando o framework Angular;<br>
 * Consumo de API's REST;<br>
 * Criação de layouts com foco em UX Design utilizando Adobe XD;<br>
 * Versionamento de código com o SVN.<br>
-<br>
+
 ### Desenvolvedor Front-end — Júnior<br>
 #### Studio Indra — jan. de 2017 - dez. de 2018<br>
 * Desenvolvimento de SPA's utilizando o framework Vue.js e a biblioteca React.js;<br>
 * Consumo de API's REST;<br>
 * Versionamento de código com o GIT;<br>
 * Criação de layouts com foco em UX Design utilizando Adobe XD.<br>
-<br>
+
 ## Conhecimentos
 
 ### Gerais
