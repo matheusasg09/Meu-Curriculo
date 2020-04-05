@@ -62,7 +62,7 @@ LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 * Inglês técnico.
 
 ## Cursos Extracurriculares
-* Bootcamp GoStack 9.0, Rocketseat, concluído em outubro de 2019. 
+* <b>Bootcamp GoStack 9.0</b>, Rocketseat, concluído em outubro de 2019. 
 * Angular 8 Completo, Udemy, concluído em abril de 2019. 
 * Adobe XD, Origamid, concluído em dezembro de 2018.
 * UX Design Heurísticas, Origamid, concluído em novembro de 2018.
