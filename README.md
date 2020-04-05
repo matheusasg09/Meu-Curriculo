@@ -11,8 +11,6 @@ E-mail: matheusasg09@gmail.com<br>
 LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 </p>
 
-[ Currículo em PDF ](https://goo.gl/Dbkfy3)
-
 ## Formação Acadêmica
 <p>Tecnólogo em <strong>Sistemas para Internet</strong>, FATEC São Roque, conclusão em junho de 2021.</P>
 
@@ -23,13 +21,13 @@ LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 
 ## Experência Profissional
 
- Desenvolvedor Front-end — Pleno
- DigiSystem
- mar. de 2020 - até o momento
-▪ Criação de interfaces com foco em UX Design utilizando o framework Vue.js;
-▪ Consumo de API's REST;
-▪ Versionamento de código com o GIT;
-▪ Desenvolvimento de aplicativos híbridos para Android e IOS com o framework NativeScript.
+ <strong>Desenvolvedor Front-end — Pleno</strong><br>
+ DigiSystem<br>
+ mar. de 2020 - até o momento<br>
+▪ Criação de interfaces com foco em UX Design utilizando o framework Vue.js;<br>
+▪ Consumo de API's REST;<br>
+▪ Versionamento de código com o GIT;<br>
+▪ Desenvolvimento de aplicativos híbridos para Android e IOS com o framework NativeScript.<br>
 
 
 ## Conhecimentos
@@ -85,7 +83,4 @@ LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 
 <br>
 
-## Me ajude!
-Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
-
-Inspirado no curriculum de [richmanzoli](https://github.com/richmanzoli/curriculo) e [davidallysson](https://github.com/davidallysson/curriculo).
+[ Currículo em PDF ](https://goo.gl/Dbkfy3)
