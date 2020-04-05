@@ -63,16 +63,16 @@ LinkedIn: linkedin.com/in/matheus-augusto-8963a9bb<br>
 
 ## Cursos Extracurriculares
 * <b>Bootcamp GoStack 9.0</b>, Rocketseat, concluído em outubro de 2019. 
-* Angular 8 Completo, Udemy, concluído em abril de 2019. 
-* Adobe XD, Origamid, concluído em dezembro de 2018.
-* UX Design Heurísticas, Origamid, concluído em novembro de 2018.
-* UI Design Avançado, Origamid, concluído em novembro de 2018.
-* Vue.js Completo, Origamid, concluído em março de 2018.
-* jQuery, Origamid, concluído em janeiro de 2018.
-* Javascript ES6, Origamid, concluído em novembro de 2017.
-* Bootstrap 4, Origamid, concluído em julho de 2017.
-* Web Design, Origamid, concluído em agosto de 2016.
-* Cyber Security Offensive, DESEC Security, concluído em abril de 2016.
+* <b>Angular 8 Completo</b>, Udemy, concluído em abril de 2019. 
+* <b>Adobe XD</b>, Origamid, concluído em dezembro de 2018.
+* <b>UX Design Heurísticas</b>, Origamid, concluído em novembro de 2018.
+* <b>UI Design Avançado</b>, Origamid, concluído em novembro de 2018.
+* <b>Vue.js Completo</b>, Origamid, concluído em março de 2018.
+* <b>jQuery</b>, Origamid</b>, concluído em janeiro de 2018.
+* <b>Javascript ES6</b>, Origamid, concluído em novembro de 2017.
+* <b>Bootstrap 4</b>, Origamid, concluído em julho de 2017.
+* <b>Web Design</b>, Origamid, concluído em agosto de 2016.
+* <b>Cyber Security Offensive</b>, DESEC Security, concluído em abril de 2016.
 
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/filipe.daineze)
