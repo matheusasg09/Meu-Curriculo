@@ -8,6 +8,7 @@ Vargem Grande Paulista - SP<br>
 Tel: (11) 4303 - 9938<br>
 Cel: (11) 96472 - 0880<br>
 E-mail: matheusasg09@gmail.com<br>
+Linkedin: [linkedin.com/in/matheusasg09/](https://www.linkedin.com/in/matheusasg09/)
 </p>
 
 ## ◾ Formação Acadêmica
@@ -96,5 +97,3 @@ E-mail: matheusasg09@gmail.com<br>
 * <b>Bootstrap 4</b>, Origamid, concluído em julho de 2017.
 * <b>Web Design</b>, Origamid, concluído em agosto de 2016.
 * <b>Cyber Security Offensive</b>, DESEC Security, concluído em abril de 2016.
-
-[ Currículo em PDF ](https://goo.gl/Dbkfy3)
