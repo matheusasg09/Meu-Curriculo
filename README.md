@@ -65,7 +65,7 @@ Linkedin: www.linkedin.com/in/matheusasg09
 
 ## ◾ Habilidades
 
-* <b>HTML 5</b> - Avançado * <b>CSS 3</b> - Avançado
+* <b>HTML 5</b> - Avançado                       * <b>CSS 3</b> - Avançado
 * <b>CSS 3</b> - Avançado
 * <b>Javascript ES6</b> - Avançado
 * <b>Vue.js</b> - Avançado
