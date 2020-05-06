@@ -21,27 +21,26 @@ Linkedin: www.linkedin.com/in/matheusasg09
 
 ## ◾ Experência Profissional
 
-### Desenvolvedor Front-end — Pleno<br>
-#### DigiSystem — mar. de 2020 - até o momento<br>
+### Analista Desenvolvedor Front-end<br>
+#### Qualicorp — maio. de 2020 - até o momento<br>
 * Criação de interfaces com foco em UX Design utilizando o framework Vue.js;<br>
 * Consumo de API's REST;<br>
 * Versionamento de código com o GIT;<br>
-* Desenvolvimento de aplicativos híbridos para Android e IOS com o framework NativeScript.<br>
 
-### Analista de Sistemas<br>
-#### Biovet Vaxxinova — out. de 2019 - mar. 2020<br>
+### Desenvolvedor Full-stack<br>
+#### Biovet Vaxxinova — out. de 2019 - abr. 2020<br>
 * Desenvolvimento de novos módulos para o ERP interno utilizando a plataforma .NET;<br>
 * Manutenções periódicas no banco de dados SQL Server;<br>
 * Migração de um sistema legado para uma solução web com ASP.NET.<br>
 
-### Desenvolvedor Front-end — Júnior<br>
+### Desenvolvedor Front-end<br>
 #### Ideas Fractal Brasil — dez. de 2018 - out. de 2019<br>
 * Desenvolvimento de SPA's utilizando o framework Angular;<br>
 * Consumo de API's REST;<br>
 * Criação de layouts com foco em UX Design utilizando Adobe XD;<br>
 * Versionamento de código com o SVN.<br>
 
-### Desenvolvedor Front-end — Júnior<br>
+### Desenvolvedor Front-end <br>
 #### Studio Indra — jan. de 2017 - dez. de 2018<br>
 * Desenvolvimento de SPA's utilizando o framework Vue.js e a biblioteca React.js;<br>
 * Consumo de API's REST;<br>
@@ -54,14 +53,6 @@ Linkedin: www.linkedin.com/in/matheusasg09
 * Análise e lançamento notas fiscais;<br>
 * Controle de estoque;<br>
 * Requisições de pedidos de compras e serviço.<br>
-
-## ◾ Competências
-
- <p><b>UX Design:</b><br> Estudo de referencias, prototipação e criação de interfaces com foco na experiencia do usuário.</p>
-
- <p><b>Web Design Responsivo:</b><br> Desenvolvimento de web pages que se adaptam de forma anatômica em todos os tamanhos de tela do mercado.</p>
-
- <p><b>Desenvolvimento Mobile:</b><br> Criação de aplicativos híbridos para as plataformas Android e IOS.</p>
 
 ## ◾ Habilidades
 
