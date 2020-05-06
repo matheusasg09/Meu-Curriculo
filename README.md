@@ -25,7 +25,7 @@ Linkedin: www.linkedin.com/in/matheusasg09
 #### Qualicorp — maio. de 2020 - até o momento<br>
 * Criação de interfaces com foco em UX Design utilizando o framework Vue.js;<br>
 * Consumo de API's REST;<br>
-* Versionamento de código com o GIT;<br>
+* Versionamento de código com o TFS;<br>
 
 ### Desenvolvedor Full-stack<br>
 #### Biovet Vaxxinova — out. de 2019 - abr. 2020<br>
